@@ -1,0 +1,17 @@
+{
+  "name": "generator-plone-pattern",
+  "version": "0.0.1",
+  "description": "Plone patterns generator",
+  "main": "index.js",
+  "keywords": [
+    "yeoman-generator",
+    "plone",
+    "pattern"
+  ],
+  "author": "Peter Lamut, Natan Žabkar",
+  "license": "MIT",
+  "dependencies": {
+    "cli-color": "^0.3.2",
+    "yeoman-generator": "^0.17.2"
+  }
+}
